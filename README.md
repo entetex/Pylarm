@@ -41,5 +41,5 @@ License
 
 GPLv3
 
-   [configuration file]: </blob/master/pylarm_config.py>
+   [configuration file]: <https://github.com/entetex/Pylarm/blob/master/pylarm_config.py>
    [Pygame library]: <https://www.pygame.org/docs/>
