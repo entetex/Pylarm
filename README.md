@@ -1,6 +1,6 @@
 # Pylarm
 
-Pylarm is a remote alerting tool. It is a python program that allows one to play a music file on an alarm server, by sending the appropriate command. It was conceived to help wake persons if they oversleep, or to notify people of any other arbitrary important happening.
+Pylarm is a remote alerting tool. It is a python program that allows one to play a music file on an alarm server, by sending the appropriate command. It was conceived to help wake persons if they oversleep, or to notify people of any other arbitrary important happenings.
 
 ### Protocol
 The commands are build up by an action, followed by a token. For instance, to engage the alarm, the command should be the following, where *alarm* is the action and *_token123456* is the token.
