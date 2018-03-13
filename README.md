@@ -27,7 +27,7 @@ The server is accompanied by a [configuration file]. The configuration allows ch
 ### Usage
 After setting up the configuration file, the server should be started:
 ```sh
-$ python3 pylarmServer.sh
+$ python3 pylarm_server.py
 ```
 If all goes well, the server should be ready to accept alarm triggers.
 
@@ -41,5 +41,5 @@ License
 
 GPLv3
 
-   [configuration file]: <http://link>
+   [configuration file]: </blob/master/pylarm_config.py>
    [Pygame library]: <https://www.pygame.org/docs/>
